@@ -23,3 +23,4 @@ function aumentaTamanho(){
 }
 
 console.log(botoes);
+console.log (botoes);
